@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Animated header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayushi%20Sharma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20intelligent%20systems%20%7C%20BTech%20CS%20%40%20GLA%20University&descAlignY=55&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19&height=180&section=header&text=Ayushi%20Sharma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20intelligent%20systems%20%7C%20BTech%20CS%20%40%20GLA%20University&descAlignY=55&descSize=16"/>
 
 </div>
 
@@ -27,24 +26,24 @@ ayushi = {
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-7C5CBF?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-9B72CF?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-8B6BB1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-B39DDB?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-9575CD?style=for-the-badge&logo=css3&logoColor=white)
 
 **AI / ML & Data**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-7E57C2?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-8067B7?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-9C7BB5?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-A17DC8?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-7B5EA7?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-9D79BC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8E6BBF?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -55,7 +54,7 @@ ayushi = {
 | 🔍 [**PGLens**](https://github.com/Ayushi536/PGLens) | AI-powered PG accommodation platform — verified reviews, image analysis, price fairness prediction & location intelligence for students | TypeScript, AI/ML |
 | 🌐 [**Tiny Project**](https://github.com/Ayushi536/Tiny-Project) | Web development mini-project — 5 forks and counting! | HTML, CSS |
 
-> 💡 *More projects in progress — watch this space!*
+> 💜 *More projects in progress — watch this space!*
 
 ---
 
@@ -63,14 +62,14 @@ ayushi = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayushi536&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushi536&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayushi536&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushi536&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ayushi536&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ayushi536&theme=midnight-purple&hide_border=true)
 
 </div>
 
@@ -90,8 +89,8 @@ ayushi = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayushi%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushi-sharma-59a11430b/)
-[![GitHub](https://img.shields.io/badge/GitHub-Ayushi536-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushi536)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayushi%20Sharma-7C5CBF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushi-sharma-59a11430b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Ayushi536-9575CD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushi536)
 
 </div>
 
@@ -99,8 +98,8 @@ ayushi = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ayushi536&color=blueviolet&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Ayushi536&color=9575cd&style=for-the-badge&label=Profile+Views)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19&height=100&section=footer"/>
 
 </div>
