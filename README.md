@@ -4,6 +4,16 @@
 
 </div>
 
+<div align="center">
+
+### 🌐 Check Out My Portfolio
+
+[![Portfolio](https://img.shields.io/badge/🚀%20Live%20Portfolio-Ayushi536.github.io-7C5CBF?style=for-the-badge&logoColor=white)](https://Ayushi536.github.io)
+
+> *Projects · Skills · Achievements · Contact — all in one place*
+
+</div>
+
 ---
 
 ### 👩‍💻 About Me
@@ -173,6 +183,7 @@ ayushi = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayushi%20Sharma-7C5CBF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushi-sharma-59a11430b/)
 [![GitHub](https://img.shields.io/badge/GitHub-Ayushi536-9575CD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushi536)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ayushi536.github.io-8B5CF6?style=for-the-badge&logoColor=white)](https://Ayushi536.github.io)
 
 </div>
 
